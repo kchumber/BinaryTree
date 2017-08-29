@@ -1,0 +1,27 @@
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+G:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+F:\Uni\Year 2\Algorithms and Data Structures (6G5Z1002_1516_9Z6)\Labs\Week 8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+C:\Users\Kallum Chumber\Desktop\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\Kallum Chumber\Desktop\resits\algorithms &data structres\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+G:\uni\second year\resits\algorithms &data structres\Algorithms & data structures\8\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
